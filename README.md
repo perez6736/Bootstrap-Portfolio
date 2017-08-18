@@ -1,2 +1,1 @@
-# Bootstrap-Portfolio
-homework 2
+# BasicPortfolioWithBootStrap
