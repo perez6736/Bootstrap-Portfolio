@@ -65,3 +65,17 @@ hr.style1{
 	margin-top: 10px;
 }
 
+.placeholder-text{
+	position: relative;
+    bottom: 50px;
+    background-color: #4AAAA5;
+    text-align: center;
+    padding-top: 10px;
+    color: #E9F1E9;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+.connect-with-me{
+	margin-bottom: 100px;
+}
