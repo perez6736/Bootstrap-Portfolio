@@ -24,6 +24,8 @@ body{
 	background-color: #4aaaa5;
 	margin-left: 200px;
 	height: 50px;
+	padding-left: 5px;
+    padding-right: 5px;
 }	
 
 a:link {
@@ -35,3 +37,31 @@ a:visited {
     text-decoration: none;
     color: #fff;
 }
+
+.profilePic {
+	margin-right: 10px;
+}
+
+hr.style1{
+	border-top: 1px solid #cccccc;
+	width:95%; 
+}
+.body-header, .connect-header {
+	margin-top:10px;
+	font-size: 24px;
+	color: #4aaaa5;
+	font-weight: bold;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	padding-left: 20px;
+}
+
+.footer{
+	background-color: #343a40;
+	color: #fff; 
+	text-align: center;
+	padding-top: 15px;
+	padding-left: 43%;
+	height: 50px;
+	margin-top: 10px;
+}
+
