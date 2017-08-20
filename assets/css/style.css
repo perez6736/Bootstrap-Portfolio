@@ -46,6 +46,10 @@ hr.style1{
 	border-top: 1px solid #cccccc;
 	width:95%; 
 }
+
+.body-container{
+	margin-bottom: 55px;
+}
 .body-header, .connect-header {
 	margin-top:10px;
 	font-size: 24px;
